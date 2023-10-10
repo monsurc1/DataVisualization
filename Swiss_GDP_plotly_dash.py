@@ -7,7 +7,7 @@ import plotly.graph_objs as go
 from dash.dependencies import Input, Output
 
 # Load data from CSV file
-df = pd.read_csv('/Users/mansoor/Documents/TUS/2nd_semester/Data Visualization/Assignment 2/SwissGDP_Final2.csv')
+df = pd.read_csv('SwissGDP_Final2.csv')
 # new dataframe for the pie-chart
 df_new = df.drop([0, 5, 6])
 
