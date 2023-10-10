@@ -1,1 +1,14 @@
+A country's GDP can be determined using a variety of methods, including the expenditure technique. The expenditure approach calculates GDP as the total of all purchases of goods and services made within a country's boundaries during a given time period, usually a year, by households, corporations, governments, and foreign entities.
+I have chosen the expenditure approach. The expenditure approach can be broken down into four main components:
+• Consumer spending (C): This includes all expenditures made by households on final goods and services, such as food, clothing, housing, and healthcare.
+• Investment spending (I): This includes all expenditures made by businesses on capital goods such as machinery, equipment, and buildings, as well as inventory investment.
+• Government spending (G): This includes all expenditures made by government entities on goods and services, such as defense, education, healthcare, and infrastructure.
+• Net exports (NX): This is the difference between a country's exports and imports, representing the net amount of goods and services sold to foreign entities.
+The GDP of a country can be calculated using the following formula[1]:
+GDP = C + I + G + NX
+NX = Exp - Imp
 
+### Data source: Word Bank.
+https://data.worldbank.org/
+https://api.worldbank.org/v2/en/country/CHE?downloadformat=csv
+(Gross domestic product 2023)
