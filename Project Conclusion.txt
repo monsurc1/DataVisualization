@@ -1,0 +1,9 @@
+The dataset was carefully created with the required indicators of the GDP. I have chosen the expenditure 
+approach to calculating a country’s GDP. While there are more ways to calculate, the expenditure approach 
+is well taken along with other methods. In my dataset, I included the inflation and unemployment data as well 
+to show the impact of these on the general population. In this way, I believe I justified my dataset for this 
+assignment. On the other hand, I used Python packages like Pandas, Plotly, Plotly-Dash, and Plotly-related other 
+dependencies. These are easy to use and very user-friendly for both the developer and the end-users. 
+
+For the end-users, I have used drop-down menus and sliders where needed and various types of plots to visualize 
+the data in a very appropriate and easy-to-understand manner.
