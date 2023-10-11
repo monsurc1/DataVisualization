@@ -1,14 +1,12 @@
 """
-
-@author: A00304503
+Project: Visualization.
+Second code file.
 """
-
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("/Users/mansoor/Documents/TUS/2nd_semester/Data Visualization/Assignment 2/SwissGDP_Final2.csv")
+df = pd.read_csv("SwissGDP_Final2.csv")
 
 print(df.shape)
 print(df.dtypes)
